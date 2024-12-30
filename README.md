@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently collaborating with my team to build an awesome portfolio website that showcases our skills and projects.
+🌱 I'm always eager to learn new things and expand my skillset.
